@@ -24,8 +24,7 @@ public class Guia_3_EJERCICIOS_EXTRAS_1 {
          dia=hora*24;
         System.out.print(" su equivalencia en dia:"+dia);
         System.out.print(" su equivalencia en hora:"+hora);
-        
-        
+               
     }
     
 }
