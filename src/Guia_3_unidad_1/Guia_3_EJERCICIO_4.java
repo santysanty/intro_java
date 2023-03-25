@@ -22,7 +22,7 @@ public class Guia_3_EJERCICIO_4 {
     	frase= leer.nextLine();
         primerLetra=frase.substring(0, 1);// permite obtner la primera posicion de letra de la frase.
         // example de internet --String first = str.substring(0, 1);
-        if( primerLetra.equalsIgnoreCase ("A")){ //
+        if( primerLetra.equalsIgnoreCase ("A")){ 
         System.out.println("La frase es correcta");
         }else{
         System.out.println("La frase es Incorrecta");
