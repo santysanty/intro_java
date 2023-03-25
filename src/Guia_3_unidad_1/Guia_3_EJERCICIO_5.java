@@ -18,7 +18,7 @@ public class Guia_3_EJERCICIO_5 {
         System.out.println("Ingrese un numero positivo");
     	numeroPositivo= leer.nextInt();
          suma=0;
-        while(suma< numeroPositivo ){ //
+        while(suma< numeroPositivo ){ 
          System.out.println("Ingrese un numero para sumar. hasta que supere el valor inicial.");
          numeroSiguiente=leer.nextInt();
          suma=suma+numeroSiguiente;
